@@ -1,8 +1,8 @@
 
 # UART for PIC32MX1XX/2XX
 
-Author:  
-Name: Rafael Silva  
+Author:  Rafael Silva    
+Name: PIC32MX1-2_UART  
 Github: github.com/Crying-Face-Emoji  
 
 ## Dependencies
