@@ -51,5 +51,3 @@ base_addr			// base memory address of module, used for initialization, constant
 * auto pps configure and port init  
 * auto set double speed, by calculating error  
 * properly coment the code  
-
-### Sorry for this mess it was copy pasted ^^  
